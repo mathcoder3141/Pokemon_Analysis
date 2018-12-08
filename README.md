@@ -35,6 +35,6 @@ Like Banik, Pokemon is very close to my heart as I grew up with it. Despite bare
 
 ## TO DO
 
-Model to predict if Type: Null is a legendary or not
-Model to predict a Pokemon's type given their stats
-Neural Network to come up with a Pokemon's name given their type
+* Model to predict if Type: Null is a legendary or not.
+* Model to predict a Pokemon's type given their stats.
+* Neural Network to come up with a Pokemon's name given their type.
