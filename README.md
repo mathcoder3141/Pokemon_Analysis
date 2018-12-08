@@ -29,8 +29,12 @@ This data set was uploaded by Kaggle user [Rounak Banik](https://www.kaggle.com/
 * generation: The numbered generation which the Pokemon was first introduced.
 * is_legendary: Denotes if the Pokemon is legendary. 1 if the Pokemon is legendary and 0 otherwise.
 
-* This dataset has 801 rows and 41 columns. Upon inspection of the data, pokemon with numbers #802 - #807 is not in the dataset but I will be adding them to the data set in the next few days.
-
 ## Other information
 
-Like Banik, Pokemon is very close to my heart as I grew up with it. Despite barely having time to play the games, Pokemon will always the cornerstone of my interests. 
+Like Banik, Pokemon is very close to my heart as I grew up with it. Despite barely having time to play the games, Pokemon will always the cornerstone of my interests and will always think fondly of. 
+
+## TO DO
+
+Model to predict if Type: Null is a legendary or not
+Model to predict a Pokemon's type given their stats
+Neural Network to come up with a Pokemon's name given their type
